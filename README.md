@@ -3,7 +3,7 @@
 [Visit Now](https://mahitzy.github.io/JavaScript-Projects/) 🚀
 
 [![javascript-projects](https://img.shields.io/website-up-down-green-red/http/shields.io.svg?color=blue)](https://mahitzy.github.io/JavaScript-Projects/)&nbsp;
-[![repo-size](https://img.shields.io/github/repo-size/MahiTzy/JavaScript-Projects)](https://github.com/MahiTzy/JavaScript-Projects)
+[![repo-size](https://img.shields.io/github/repo-size/MahiTzy/JavaScript-Projects)](https://github.com/MahiTzy/JavaScript-Projects);
 
 ## Overview
 
