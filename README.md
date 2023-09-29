@@ -17,6 +17,8 @@ Made with basic HTML, CSS, TailwindCSS, SCSS, JavaScript and jQuery.
 
 ## Sneak Peek of Home Page 🙈 :
 ![jsprothumb3](https://user-images.githubusercontent.com/64949957/124395721-3eac3880-dd23-11eb-99ca-b43f2c2e0d38.png)
+![jsproject](https://github.com/MahiTzy/JavaScript-Projects/assets/116704676/a3b06808-bd48-48ea-a93c-ec5f58b2e98e)
+
 
 
 <h2>📬 Contact</h2>
