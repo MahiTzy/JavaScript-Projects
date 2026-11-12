@@ -1,30 +1,31 @@
-# JavaScript-Projects
+# JavaScript Projects
 
-[Visit Now](https://mahitzy.github.io/JavaScript-Projects/) 🚀
+A collection of browser-based projects and experiments built with JavaScript.
 
-[![javascript-projects](https://img.shields.io/website-up-down-green-red/http/shields.io.svg?color=blue)](https://mahitzy.github.io/JavaScript-Projects/)&nbsp;
-[![repo-size](https://img.shields.io/github/repo-size/MahiTzy/JavaScript-Projects)](https://github.com/MahiTzy/JavaScript-Projects)
+## Live Projects
+Explore the published collection: <https://mahitzy.github.io/JavaScript-Projects/>
 
 ## Overview
+This repository groups small projects that demonstrate JavaScript and frontend development concepts. Each project folder or page can be explored independently.
 
-JavaScript Projects Site includes major projects working on single site.
-Made with basic HTML, CSS, TailwindCSS, SCSS, JavaScript and jQuery.
+## Technology
+- HTML
+- CSS
+- JavaScript
+- Browser APIs as used by individual projects
 
-## Tech Stack
-[![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://github.com/MahiTzy/JavaScript-Projects/search?l=html)&nbsp;
-[![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/MahiTzy/JavaScript-Projects/search?l=css)&nbsp;
-[![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/MahiTzy/JavaScript-Projects/search?l=javascript)
+## Run Locally
+```bash
+git clone https://github.com/MahiTzy/JavaScript-Projects.git
+cd JavaScript-Projects
+```
+Open the relevant project's HTML entry point in a modern browser. If a project uses modules or browser features that require HTTP, serve the repository through a local static server.
 
-## Sneak Peek of Home Page 🙈 :
-![jsprothumb3](https://user-images.githubusercontent.com/64949957/124395721-3eac3880-dd23-11eb-99ca-b43f2c2e0d38.png)
-![jsproject](https://github.com/MahiTzy/JavaScript-Projects/assets/116704676/a3b06808-bd48-48ea-a93c-ec5f58b2e98e)
+## Explore
+Browse the folders and source files to see each project's purpose, interactions, and implementation. Run one project at a time and check its local assets.
 
+## Deployment
+The collection is published through GitHub Pages. Confirm the configured publishing branch and directory in repository settings before changing deployment behavior.
 
-
-<h2>📬 Contact</h2>
-
-If you want to contact me, you can reach me through below handles.
-
-&nbsp;&nbsp;<a href="https://www.linkedin.com/in/mohit-singh-250911234/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="30"></img></a>
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+## License
+No license terms are specified here. Refer to the repository's LICENSE file, if present, before reuse.
